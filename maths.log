@@ -1,0 +1,9 @@
+2023-12-11 10:16:54,229 - My_Logger - INFO - [36m{'batch_id': '23123', 'a': 5, 'b': 25}[0m
+2023-12-11 10:17:08,714 - My_Logger - INFO - [36mImmutableMultiDict([('batch_id', '23123')])[0m
+2023-12-11 10:17:15,445 - My_Logger - INFO - [36mImmutableMultiDict([('batch_id', '23123')])[0m
+2023-12-11 10:17:34,795 - My_Logger - INFO - [36m{'batch_id': '23123', 'a': 5, 'b': 25}[0m
+2023-12-11 10:17:37,764 - My_Logger - INFO - [36m{'batch_id': '2123', 'a': 5, 'b': 25}[0m
+2023-12-11 10:17:40,491 - My_Logger - INFO - [36m{'batch_id': '223', 'a': 5, 'b': 25}[0m
+2023-12-11 10:17:43,060 - My_Logger - INFO - [36m{'batch_id': '23', 'a': 5, 'b': 25}[0m
+2023-12-11 10:17:59,225 - My_Logger - INFO - [36mImmutableMultiDict([('batch_id', '223')])[0m
+2023-12-11 10:18:08,138 - My_Logger - INFO - [36mImmutableMultiDict([('batch_id', '223')])[0m
